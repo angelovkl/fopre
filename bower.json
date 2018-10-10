@@ -1,0 +1,15 @@
+{
+  "name": "pro1",
+  "description": "\"# fopre\"",
+  "main": "index.js",
+  "authors": [
+    "Kliment"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/angelovkl/fopre",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "toastr": "^2.1.3"
+  }
+}
